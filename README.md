@@ -108,7 +108,11 @@ Now that you have learned how to _review_ a pull request, it's time to MAKE ONE!
 
 #### Here's what I'd like you to do:
 
+![Classy Cats](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
+
 ##### Define the class "Cat"
+
+* Create a new section of this Readme, to practice creating classes!
 
 * The class should have 4 properties/attributes (of varying data types), and 2 methods.
 
@@ -123,6 +127,39 @@ When you're ready to come back, go to Github in your browser, and navigate to ou
 If you visit the home page, you should see a little text block at the top that looks like this:
 
 ![New branch message on github](assets/make-a-pr.png)
+
+* Click the button that says `Compare & pull request`
+
+* This should take you to the pull request screen, with the heading "Open a Pull Request"
+
+* Right beneath the title, make sure that you are merging your branch (the `compare` branch) into `main` (the `base` branch)
+
+* In the main text input field, where it says "Leave a comment", Write a bit about what this branch is doing!
+
+#### For now, just format your PR message like this:
+
+1. What does this branch do?
+
+2. Are there any questions/comments you have for the reviewer?
+
+3. Use markdown to add a GIF to the end of your message!
+
+#### Now, request a review from a team member!
+
+On the right, there is a menu that looks like this:
+
+![Github side bar](assets/pr-sidebar.png)
+
+* Click "Reviewers" to open a dropdown menu, and select me as your reviewer!
+  * This will send me an email when the PR has been created, letting me know that my review has been requested. 
+
+* Click "Labels, and in the dropdown menu, select "Documentation" to label this pull request so that we can keep this project organized.
+
+* When you are happy with your PR, click `Create pull request` and congratulations, you just made your first PR!!!
+
+(That's a big move, and knowing this will help you show up on day one like BLAM so profreshhhh)
+
+## You're doing an amazing job, KK!
 
 
 
